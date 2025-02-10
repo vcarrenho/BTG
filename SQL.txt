@@ -1,0 +1,12 @@
+https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#databases:
+
+
+vcarrenho@gmail.com
+Senha: Chumina2407
+
+
+Banco de Dados.
+
+btgpactual1
+Login: admin
+Pass: btgpactual2407
